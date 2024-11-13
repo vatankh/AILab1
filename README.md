@@ -105,6 +105,16 @@ run_all_tests :-
     test_spear_user.
 ```
 
+### визуализации protege
+
+![Image 1](./ai1.png)
+![Image 2](./ai2.png)
+
+### пример запросы protege
+
+![Image 3](./ai3.png)
+![Image 4](./ai4.png)
+![Image 5](./ai5.png)
 
 ### Тест результат
 ```prolog
