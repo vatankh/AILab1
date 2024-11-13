@@ -193,6 +193,43 @@ true.
 
 ?- 
 ```
+### Тест Recommender
+
+```
+Please provide your preferences in the following format:
+Examples:
+1. I want a character from the Assassins faction, who uses a sword in melee style and has the ability to stealth techniques
+2. I want a character from the Templars faction, who uses a bow in ranged style and has the ability to eagle vision
+3. I want a character from the Pirates faction, who uses a firearm in ranged style and has the ability to naval combat
+
+Enter your preferences (or type 'exit' to quit):
+I want a character from the Assassins faction, who uses a sword in melee style and has the ability to stealth techniques
+
+Recommended Characters:
+-  Ezio Auditore
+-  Altaïr Ibn-LaʼAhad
+-  Connor Kenway
+-  Bayek of Siwa
+
+Enter your preferences (or type 'exit' to quit):
+I want a character from the Assassins faction, who uses a forearm
+should be here
+
+Errors in your input:
+There is no such weapon -> forearm 
+ available weapon are Hidden Blade', 'Sword', 'Bow', 'Firearm', 'Bombs', 'Throwing Knives', 'Shield', 'Spear
+
+Enter your preferences (or type 'exit' to quit):
+I want a character from the Assassins faction, who uses a firearm
+
+Recommended Characters:
+-  Ezio Auditore
+-  Connor Kenway
+
+Enter your preferences (or type 'exit' to quit):
+exit
+Exiting the application. Goodbye!
+```
 
 ### Оценка и интерпретация результатов
 
