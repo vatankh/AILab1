@@ -213,7 +213,6 @@ Recommended Characters:
 
 Enter your preferences (or type 'exit' to quit):
 I want a character from the Assassins faction, who uses a forearm
-should be here
 
 Errors in your input:
 There is no such weapon -> forearm 
